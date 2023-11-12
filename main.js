@@ -14,7 +14,7 @@ while (true) {
     if (n.length > 0) {
         alert("SHET What if gusto kita");
         alert('What if Tayo nalang');
-        alert('I love You ' + n);
+        alert('ASASASASASASASASASASASASASAI love You ' + n);
         main.style.display = 'block';
         break;
     }
